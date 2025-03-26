@@ -1,6 +1,6 @@
 # miprimera_app
 
-A new Flutter project.
+Utilizando new Flutter project.
 
 ## Getting Started
 
