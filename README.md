@@ -1,4 +1,4 @@
-# miprimera_app
+# Aplicacion sencilla para iniciar con flutter (lista de favoritos)
 
 Utilizando new Flutter project.
 
